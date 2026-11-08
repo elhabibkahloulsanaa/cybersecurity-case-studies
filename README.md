@@ -41,30 +41,53 @@ The following cybersecurity incidents are covered:
 No.	Cybersecurity Incident	Main Category
 
 01     	Stuxnet	Industrial Malware
+
 02	Marriott Data Breach	Data Breach
-03	United Nations Data Breach	Network Intrusion
+
+03	United Nations Data Breach	Network 
+
 04	Microsoft Customer Support Database Exposure	Security Misconfiguration
+
 05	LifeLabs Data Breach	Ransomware and Data Theft
-5. Detailed Analysis
+
+## Detailed Analysis
+
+
 The Marriott data breach was selected for an in-depth investigation.
-The analysis covers:
+
+## The analysis covers:
 •	Victims of the attack
+
 •	Tools and technologies involved
+
 •	Attack timeline
+
 •	Targeted systems
+
 •	Attackers' motivations
+
 •	Consequences and security impact
-See Case Study: Marriott Data Breach.
-6. Skills and Knowledge Developed
+
+### Skills and Knowledge Developed
+
 •	Cybersecurity fundamentals
+
 •	Malware analysis concepts
+
 •	Network security
+
 •	Security incident investigation
+
 •	Data breach analysis
+
 •	Credential theft awareness
+
 •	Threat identification
+
 •	Technical research and documentation
-7. References
+
+## References
+
 The research is based on technical reports, official cybersecurity publications, government investigations, and trusted news sources.
 ________________________________________
 File 2 — case-study-marriott.md
