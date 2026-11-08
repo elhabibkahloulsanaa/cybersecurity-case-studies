@@ -17,11 +17,9 @@ ________________________________________
 ### Project Overview
 
 This repository contains research and analysis of major cybersecurity incidents as part of the Cisco Networking Academy CyberOps Associate 
-
 training program.
 
 The purpose of this project is to understand how cyberattacks occur, identify the systems and organizations targeted, examine the techniques 
-
 used by attackers, and evaluate the consequences of security incidents.
 
 # Objectives; 
