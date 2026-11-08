@@ -90,25 +90,45 @@ The Marriott data breach was selected for an in-depth investigation.
 
 The research is based on technical reports, official cybersecurity publications, government investigations, and trusted news sources.
 ________________________________________
-File 2 — case-study-marriott.md
-Case Study: Marriott Data Breach (2018)
-1. Introduction
+## File 2 — case-study-marriott.md
+
+## Case Study: Marriott Data Breach (2018)
+
+# introduction
+
 The Marriott data breach is one of the major cybersecurity incidents involving the hospitality industry.
+
 On November 30, 2018, Marriott International announced unauthorized access to the Starwood Hotels guest reservation database.
+
 The attackers had maintained access to the Starwood network since 2014, before Marriott acquired Starwood in September 2016.
+
 This incident highlights the importance of network monitoring, access control, credential protection, and database security.
-2. Attack Analysis
-A. Who were the victims?
+
+## Attack Analysis
+
+## A. Who were the victims?
+
 The victims were customers who had made reservations at Starwood Hotels properties.
-According to the Office of the Privacy Commissioner of Canada, up to approximately 339 million guest records were affected worldwide. This figure represents records and may include multiple records belonging to the same individual.
-B. What tools and technologies were used?
+
+According to the Office of the Privacy Commissioner of Canada, up to approximately 339 million guest records were affected worldwide. 
+
+This figure represents records and may include multiple records belonging to the same individual.
+
+## B. What tools and technologies were used?
+
 The investigation identified several tools used by the attackers:
-•	Web Shell: Installed on a Starwood web server to provide remote access and enable further malicious activity.
-•	Remote Access Trojans (RATs): Three different RATs were used to maintain remote access to the Starwood network.
-•	Mimikatz: A credential-harvesting program used to obtain usernames and passwords from system memory.
-•	VPN Tool: An open-source VPN tool was used to access the Starwood network remotely.
+
+## •	Web Shell: Installed on a Starwood web server to provide remote access and enable further malicious activity.
+
+## •	Remote Access Trojans (RATs): Three different RATs were used to maintain remote access to the Starwood network.
+
+## •	Mimikatz: A credential-harvesting program used to obtain usernames and passwords from system memory.
+
+## •	VPN Tool: An open-source VPN tool was used to access the Starwood network remotely.
+
 These tools enabled the attackers to obtain legitimate credentials, including some administrator accounts, and access sensitive database information.
-C. When did the attack occur?
+## C. When did the attack occur?
+
 The intrusion timeline was as follows:
 •	July 29, 2014: The attacker gained access to a Starwood web server and installed a web shell.
 •	July 2018: The attacker used a VPN tool to remotely access the Starwood network.
